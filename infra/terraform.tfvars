@@ -1,0 +1,6 @@
+aws_region      = "eu-west-3"
+log_bucket_name = "adamah-bucket"
+vpc_cidr        = "10.0.0.0/16"
+project_name    = "Go-hard-go-home"
+environment     = "dev"
+rds_engine      = "mysql"
